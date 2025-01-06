@@ -1,2 +1,2 @@
 # Nykaa-s-Business-Analysis
-Nykaa Analysis: A project on brand perception, customer sentiment, and market trends in e-commerce and fashion, with strategic recommendations for improvement.
+Nykaa Analysis is a comprehensive project focused on understanding brand perception and customer sentiment in the e-commerce and fashion domain. The project involves analyzing market trends, identifying key customer insights, and formulating strategic recommendations to enhance brand positioning.
